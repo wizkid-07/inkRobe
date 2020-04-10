@@ -1,0 +1,27 @@
+.hero {
+  position: relative;
+  height: 54vh;
+  width: 98vw;
+  margin: 0 auto;
+  overflow: hidden;
+  background: #FFFFFF;
+  border-radius: 5px;
+  margin: 0.4rem;
+  display: flex;
+}
+
+.slides {
+}
+
+.slider-icons {
+    position: absolute; 
+    align-self: flex-end;
+    margin-left: 38rem; 
+}
+
+.cta_bg {
+  left: 517px;
+  top: 855px;
+  background: #FBFC46;
+  
+}

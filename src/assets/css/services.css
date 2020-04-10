@@ -1,0 +1,43 @@
+
+
+.title {
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+text-align: center;
+font-family: Poppins;
+color: #818181;
+letter-spacing: 0.4rem;
+word-spacing: 1rem;
+}
+
+.card {
+    font-family: Poppins;
+    background: #FFFFFF;
+    border-radius: 5px;
+    padding: 1rem;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+.desc {
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 18px;
+text-align: center;
+
+color: #818181;
+}
+
+.service {
+    max-width: 300px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 3rem;
+    margin-right: 3rem;
+    margin-top: 3rem;
+
+}

@@ -1,0 +1,78 @@
+
+
+.nav-wrapper{
+    position: fixed;
+    background-color: white; 
+    height: 12vh;
+    display: grid;
+    align-items: center;
+    padding-left: 2vw;
+    padding-right: 2vw;
+    padding-top: 0.5vh;
+    padding-bottom: 0.5vh;
+    grid-template-areas: "navbar navbar";
+    width: 96vw;
+    z-index: 10;
+}
+
+
+
+.navlinks > li {
+    list-style: none;
+    font-size: 1rem;
+    color: white;
+   
+}
+
+.navlinks > li > a {
+    color: black;
+    text-decoration: none;
+}
+
+.navbar{
+    /* background-color: violet;  */
+    grid-area: navbar;
+    display: grid;
+    grid-template-areas: "logo navlinks  menu";
+}
+
+.logo {
+     /* background-color: turquoise;  */
+     grid-area: logo;
+     display: grid;
+     align-items: center;
+     justify-content: left;
+}
+
+.menu {
+    /* background-color: whitesmoke;  */
+    grid-area: menu;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    grid-auto-flow: column;
+    grid-gap: 2vw;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.navlinks {
+    /* background-color: wheat;  */
+    display: grid;
+    grid-auto-flow: column;
+    grid-gap: 2vw;
+    grid-area: navlinks;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+
+
+@media only screen and (max-width: 920px) {
+
+    .navlinks{
+        display: none;
+    }
+    
+}
