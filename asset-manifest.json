@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/inkRobe/static/css/main.594d6a57.chunk.css",
+    "main.js": "/inkRobe/static/js/main.b0b0866e.chunk.js",
+    "main.js.map": "/inkRobe/static/js/main.b0b0866e.chunk.js.map",
+    "runtime-main.js": "/inkRobe/static/js/runtime-main.1aa2f401.js",
+    "runtime-main.js.map": "/inkRobe/static/js/runtime-main.1aa2f401.js.map",
+    "static/js/2.5ec5758d.chunk.js": "/inkRobe/static/js/2.5ec5758d.chunk.js",
+    "static/js/2.5ec5758d.chunk.js.map": "/inkRobe/static/js/2.5ec5758d.chunk.js.map",
+    "index.html": "/inkRobe/index.html",
+    "precache-manifest.e3e4ef2a85ab24e85ae9a4ae7bb2c66e.js": "/inkRobe/precache-manifest.e3e4ef2a85ab24e85ae9a4ae7bb2c66e.js",
+    "service-worker.js": "/inkRobe/service-worker.js",
+    "static/css/main.594d6a57.chunk.css.map": "/inkRobe/static/css/main.594d6a57.chunk.css.map",
+    "static/js/2.5ec5758d.chunk.js.LICENSE.txt": "/inkRobe/static/js/2.5ec5758d.chunk.js.LICENSE.txt",
+    "static/media/CTA.png": "/inkRobe/static/media/CTA.0e7b09c3.png",
+    "static/media/bg.mp4": "/inkRobe/static/media/bg.77489acb.mp4",
+    "static/media/circle.svg": "/inkRobe/static/media/circle.a2af72b7.svg",
+    "static/media/client6.png": "/inkRobe/static/media/client6.dbfd861c.png",
+    "static/media/demo_shirt.jpg": "/inkRobe/static/media/demo_shirt.90c625bb.jpg",
+    "static/media/image.png": "/inkRobe/static/media/image.ebf6d7ca.png",
+    "static/media/menu_icon.svg": "/inkRobe/static/media/menu_icon.947bcf61.svg",
+    "static/media/menu_red.svg": "/inkRobe/static/media/menu_red.643fe22a.svg",
+    "static/media/next.png": "/inkRobe/static/media/next.6f775b42.png",
+    "static/media/official_bg.mp4": "/inkRobe/static/media/official_bg.25ccea3d.mp4",
+    "static/media/profile-pic.jpg": "/inkRobe/static/media/profile-pic.9d461f28.jpg",
+    "static/media/retail.svg": "/inkRobe/static/media/retail.bee9054b.svg",
+    "static/media/slider.png": "/inkRobe/static/media/slider.f87a31b0.png",
+    "static/media/team.png": "/inkRobe/static/media/team.f45b2206.png",
+    "static/media/tshirt.svg": "/inkRobe/static/media/tshirt.98485ee0.svg",
+    "static/media/wholesale.svg": "/inkRobe/static/media/wholesale.501a2b71.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1aa2f401.js",
+    "static/js/2.5ec5758d.chunk.js",
+    "static/css/main.594d6a57.chunk.css",
+    "static/js/main.b0b0866e.chunk.js"
+  ]
+}
